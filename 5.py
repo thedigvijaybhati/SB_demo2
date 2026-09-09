@@ -6,4 +6,5 @@ student = {
 print("NAME:", student["name"])
 print("Roll:", student["roll"])
 print("Marks:", student["marks"])
+#STOREING SRUDNET DETAILS
 
