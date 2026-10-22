@@ -1,4 +1,4 @@
-# python_programs Factorial Calculator 🧮
+Factorial Calculator 🧮
 
 This is a simple Python program that calculates the **factorial of a number** entered by the user.
 
