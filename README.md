@@ -9,8 +9,10 @@ Features
 - Prints a Hello! message at the end.
 How It Works
 The program uses a for loop to calculate the factorial:
-factorial = 1
+
+  factorial = 1
+
 for i in range(1, num + 1):
-factorial = factorial * i
+    factorial = factorial * i
 
 The variable factorial is initialized to 1. The for loop multiplies it by each integer from 1 to num. The final value gives the factorial of the entered number.
